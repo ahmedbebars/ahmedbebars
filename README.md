@@ -63,8 +63,4 @@ Networks and servers first: Ubuntu, Docker, nginx, Caddy, Coolify and Traefik, C
 
 ---
 
-<div dir="rtl">
-
-أنا أحمد، مهندس شبكات وسيرفرات من مصر بخبرة أكتر من ١٢ سنة. بعمل كمان سوفتوير وأودو للكافيهات والمطاعم والجيمات، وبصنّع طابعات 3D في DeltaFabs. وكل حاجة بعملها بتشتغل بالعربي، من اليمين للشمال.
-
-</div>
+Happy to talk about networks and servers, monitoring, Odoo for cafés and restaurants, or running a farm of Klipper printers.
