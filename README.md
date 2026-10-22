@@ -53,12 +53,12 @@ Networks and servers first: Ubuntu, Docker, nginx, Caddy, Coolify and Traefik, C
 ## Recently pushed
 
 <!-- pushed starts -->
-- [Release v0.13.0](https://github.com/ahmedbebars/klipper-auto-eject/commit/13a9f5d16cabfc183f0aa5a0871e1cba99f69a9f) — **klipper-auto-eject**, 20 Oct
-- [The parts box counter, and power switches in the farm](https://github.com/ahmedbebars/klipper-auto-eject/commit/419ee332c6a2958da2808dad80a12a6cb79a5d9a) — **klipper-auto-eject**, 20 Oct
-- [Web page: the slicer lines ready to copy; farm print statistics](https://github.com/ahmedbebars/klipper-auto-eject/commit/4cc224afe41193e6f43a9609c7be815282a36b06) — **klipper-auto-eject**, 20 Oct
-- [v0.12.0 docs: one-line install that asks, Arabic docs, new pictures](https://github.com/ahmedbebars/klipper-auto-eject/commit/3806bdf8f0a05311ee987a744eade2606de53551) — **klipper-auto-eject**, 20 Oct
-- [Farm: the search remembers the printers you left out](https://github.com/ahmedbebars/klipper-auto-eject/commit/208558a00cfa426ee18e9243dda86728cb00f866) — **klipper-auto-eject**, 20 Oct
-- [Web page: on phones the language list is a globe button, so the title fits](https://github.com/ahmedbebars/klipper-auto-eject/commit/1d498ffa00963e76bdffaaa70d139520955feca7) — **klipper-auto-eject**, 20 Oct
+- [Web page: a more complete installed app](https://github.com/ahmedbebars/klipper-auto-eject/commit/d278ee9ea87b2632b3b8fb53f57c2b8b9f6d85f8) — **klipper-auto-eject**, 22 Oct
+- [install.sh: the include lines go with the printer's own includes](https://github.com/ahmedbebars/klipper-auto-eject/commit/f297a026a883f2bb20de2da38e1b22bddeaab228) — **klipper-auto-eject**, 22 Oct
+- [Fix an eject stopped by an error showing as ejecting forever](https://github.com/ahmedbebars/klipper-auto-eject/commit/c4b7dc0d063bacf524a0082fb219e72b70b0e17d) — **klipper-auto-eject**, 22 Oct
+- [Web page: contrast, phone targets and a shorter phone bar](https://github.com/ahmedbebars/klipper-auto-eject/commit/ee12f4aab066bd3f91befa39e2677d273671d9cb) — **klipper-auto-eject**, 22 Oct
+- [Web page: design tokens in three layers](https://github.com/ahmedbebars/klipper-auto-eject/commit/85e0dc34de20cf5c8708db4ed4d8d6a4136a35f3) — **klipper-auto-eject**, 22 Oct
+- [README: every feature in one place, with a shortcut to its page](https://github.com/ahmedbebars/klipper-auto-eject/commit/976d001a5e4efca25a1d11cb1887eebd6f33ffc9) — **klipper-auto-eject**, 22 Oct
 <!-- pushed ends -->
 
 ---
