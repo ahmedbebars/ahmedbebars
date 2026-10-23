@@ -53,12 +53,12 @@ Networks and servers first: Ubuntu, Docker, nginx, Caddy, Coolify and Traefik, C
 ## Recently pushed
 
 <!-- pushed starts -->
-- [Web page: a more complete installed app](https://github.com/ahmedbebars/klipper-auto-eject/commit/d278ee9ea87b2632b3b8fb53f57c2b8b9f6d85f8) — **klipper-auto-eject**, 22 Oct
-- [install.sh: the include lines go with the printer's own includes](https://github.com/ahmedbebars/klipper-auto-eject/commit/f297a026a883f2bb20de2da38e1b22bddeaab228) — **klipper-auto-eject**, 22 Oct
-- [Fix an eject stopped by an error showing as ejecting forever](https://github.com/ahmedbebars/klipper-auto-eject/commit/c4b7dc0d063bacf524a0082fb219e72b70b0e17d) — **klipper-auto-eject**, 22 Oct
-- [Web page: contrast, phone targets and a shorter phone bar](https://github.com/ahmedbebars/klipper-auto-eject/commit/ee12f4aab066bd3f91befa39e2677d273671d9cb) — **klipper-auto-eject**, 22 Oct
-- [Web page: design tokens in three layers](https://github.com/ahmedbebars/klipper-auto-eject/commit/85e0dc34de20cf5c8708db4ed4d8d6a4136a35f3) — **klipper-auto-eject**, 22 Oct
-- [README: every feature in one place, with a shortcut to its page](https://github.com/ahmedbebars/klipper-auto-eject/commit/976d001a5e4efca25a1d11cb1887eebd6f33ffc9) — **klipper-auto-eject**, 22 Oct
+- [Release v0.18.0](https://github.com/ahmedbebars/klipper-auto-eject/commit/a22eb19eb1235ba08c626011dba74c263f0d1688) — **klipper-auto-eject**, 23 Oct
+- [Layout sweep: wait longer for the browser to start, and try once more](https://github.com/ahmedbebars/klipper-auto-eject/commit/9c77dd148f71306fd4feeee25db6fb463f76c343) — **klipper-auto-eject**, 23 Oct
+- [install.sh: list the Spoolman servers found without sed (ShellCheck SC2001)](https://github.com/ahmedbebars/klipper-auto-eject/commit/0cb7ff3d6f8b1d614dfd6a3e95514080f68af19e) — **klipper-auto-eject**, 23 Oct
+- [install.sh finds Spoolman on the network by itself](https://github.com/ahmedbebars/klipper-auto-eject/commit/b098a229e1217b20477162628506718728459259) — **klipper-auto-eject**, 23 Oct
+- [Ctrl+C at the Tailscale login no longer stops the whole setup](https://github.com/ahmedbebars/klipper-auto-eject/commit/6649ff6c51e1db05fc6e27a21443d5a4a991f821) — **klipper-auto-eject**, 23 Oct
+- [CI opens every view of the web page, phone to desktop](https://github.com/ahmedbebars/klipper-auto-eject/commit/e5dd382b34807663349d2ac06a847d6d4a1a6299) — **klipper-auto-eject**, 23 Oct
 <!-- pushed ends -->
 
 ---
