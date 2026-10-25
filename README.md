@@ -53,12 +53,12 @@ Networks and servers first: Ubuntu, Docker, nginx, Caddy, Coolify and Traefik, C
 ## Recently pushed
 
 <!-- pushed starts -->
+- [Tests: write the fake whiptail on Python 3.9 too](https://github.com/ahmedbebars/klipper-auto-eject/commit/b47cb3d0a51c20dce204320f032f7cabea0a21c5) — **klipper-auto-eject**, 25 Oct
+- [install.sh asks on one screen of tick boxes](https://github.com/ahmedbebars/klipper-auto-eject/commit/3161caf6abdea94f9a01dc70a6115ef205c08aaa) — **klipper-auto-eject**, 25 Oct
+- [Cooling temperature for each material (cool_temps)](https://github.com/ahmedbebars/klipper-auto-eject/commit/5f14b56bc03027ce65007c850e7e24ef079cef52) — **klipper-auto-eject**, 24 Oct
+- [Tests: skip the bash tests when bash does not run](https://github.com/ahmedbebars/klipper-auto-eject/commit/a63424b05b70e9a66b75dd8ab8f2f131f3ca850e) — **klipper-auto-eject**, 24 Oct
 - [Release v0.18.0](https://github.com/ahmedbebars/klipper-auto-eject/commit/a22eb19eb1235ba08c626011dba74c263f0d1688) — **klipper-auto-eject**, 23 Oct
 - [Layout sweep: wait longer for the browser to start, and try once more](https://github.com/ahmedbebars/klipper-auto-eject/commit/9c77dd148f71306fd4feeee25db6fb463f76c343) — **klipper-auto-eject**, 23 Oct
-- [install.sh: list the Spoolman servers found without sed (ShellCheck SC2001)](https://github.com/ahmedbebars/klipper-auto-eject/commit/0cb7ff3d6f8b1d614dfd6a3e95514080f68af19e) — **klipper-auto-eject**, 23 Oct
-- [install.sh finds Spoolman on the network by itself](https://github.com/ahmedbebars/klipper-auto-eject/commit/b098a229e1217b20477162628506718728459259) — **klipper-auto-eject**, 23 Oct
-- [Ctrl+C at the Tailscale login no longer stops the whole setup](https://github.com/ahmedbebars/klipper-auto-eject/commit/6649ff6c51e1db05fc6e27a21443d5a4a991f821) — **klipper-auto-eject**, 23 Oct
-- [CI opens every view of the web page, phone to desktop](https://github.com/ahmedbebars/klipper-auto-eject/commit/e5dd382b34807663349d2ac06a847d6d4a1a6299) — **klipper-auto-eject**, 23 Oct
 <!-- pushed ends -->
 
 ---
