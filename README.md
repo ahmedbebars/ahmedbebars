@@ -53,12 +53,12 @@ Networks and servers first: Ubuntu, Docker, nginx, Caddy, Coolify and Traefik, C
 ## Recently pushed
 
 <!-- pushed starts -->
+- [feat: Callback Desk 1.0, the calling desk on one device](https://github.com/ahmedbebars/callback-desk/commit/fe65e80ec7c090a0c6cc9a570dede3f4bc9546ac) — **callback-desk**, 03 Nov
 - [Switched off, no dialog for a print that ended without an eject](https://github.com/ahmedbebars/klipper-auto-eject/commit/502f35fd3586f7be74e8d03705c35f07dd65dd7a) — **klipper-auto-eject**, 28 Oct
 - [A switch to turn auto-eject off (enabled)](https://github.com/ahmedbebars/klipper-auto-eject/commit/85a1625bb91cf5b16fe25decde7480a51a587f19) — **klipper-auto-eject**, 28 Oct
 - [Updates page: an Update the boards button](https://github.com/ahmedbebars/klipper-auto-eject/commit/5c200a21e3d10a1bf37e3ac51d4b5bb7bbf93480) — **klipper-auto-eject**, 26 Oct
 - [install.sh --firmware: bring every board's firmware to Klipper's version](https://github.com/ahmedbebars/klipper-auto-eject/commit/cbaa84e00005f9f117be3a9ca07afb4e746629a8) — **klipper-auto-eject**, 26 Oct
 - [Tests: write the fake whiptail on Python 3.9 too](https://github.com/ahmedbebars/klipper-auto-eject/commit/b47cb3d0a51c20dce204320f032f7cabea0a21c5) — **klipper-auto-eject**, 25 Oct
-- [install.sh asks on one screen of tick boxes](https://github.com/ahmedbebars/klipper-auto-eject/commit/3161caf6abdea94f9a01dc70a6115ef205c08aaa) — **klipper-auto-eject**, 25 Oct
 <!-- pushed ends -->
 
 ---
