@@ -53,12 +53,12 @@ Networks and servers first: Ubuntu, Docker, nginx, Caddy, Coolify and Traefik, C
 ## Recently pushed
 
 <!-- pushed starts -->
+- [README: two copies of the plugin block each other](https://github.com/ahmedbebars/print-memory/commit/264dfc811e941ab4923d9c8a578f857de49df3b2) — **print-memory**, 09 Nov
+- [Print Memory 0.1.1: find Klipper Sync's addresses when installed from OrcaCloud](https://github.com/ahmedbebars/print-memory/commit/361f13e114ffe4fa253ef0fb51ea1713897fbfb0) — **print-memory**, 09 Nov
+- [README: install from OrcaCloud](https://github.com/ahmedbebars/print-memory/commit/c00a3944ca523001c2d42e1634d63f3da9b04f0e) — **print-memory**, 09 Nov
+- [Print Memory 0.1.0: learn from Moonraker's print history inside OrcaSlicer](https://github.com/ahmedbebars/print-memory/commit/203749908f6fcaa71a35738dc84bb3339482bf8f) — **print-memory**, 09 Nov
+- [Klipper Sync 0.1.0: check the Orca printer profile against Klipper and fix it in one click](https://github.com/ahmedbebars/klipper-sync/commit/e0610a35e723d0e0ade33bfb407867243e55a2df) — **klipper-sync**, 08 Nov
 - [feat: Callback Desk 1.0, the calling desk on one device](https://github.com/ahmedbebars/callback-desk/commit/fe65e80ec7c090a0c6cc9a570dede3f4bc9546ac) — **callback-desk**, 03 Nov
-- [Switched off, no dialog for a print that ended without an eject](https://github.com/ahmedbebars/klipper-auto-eject/commit/502f35fd3586f7be74e8d03705c35f07dd65dd7a) — **klipper-auto-eject**, 28 Oct
-- [A switch to turn auto-eject off (enabled)](https://github.com/ahmedbebars/klipper-auto-eject/commit/85a1625bb91cf5b16fe25decde7480a51a587f19) — **klipper-auto-eject**, 28 Oct
-- [Updates page: an Update the boards button](https://github.com/ahmedbebars/klipper-auto-eject/commit/5c200a21e3d10a1bf37e3ac51d4b5bb7bbf93480) — **klipper-auto-eject**, 26 Oct
-- [install.sh --firmware: bring every board's firmware to Klipper's version](https://github.com/ahmedbebars/klipper-auto-eject/commit/cbaa84e00005f9f117be3a9ca07afb4e746629a8) — **klipper-auto-eject**, 26 Oct
-- [Tests: write the fake whiptail on Python 3.9 too](https://github.com/ahmedbebars/klipper-auto-eject/commit/b47cb3d0a51c20dce204320f032f7cabea0a21c5) — **klipper-auto-eject**, 25 Oct
 <!-- pushed ends -->
 
 ---
